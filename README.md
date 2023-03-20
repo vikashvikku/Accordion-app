@@ -1,8 +1,7 @@
-#### Idea
+# Accordion App
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+## App Link :- https://accordion-app-liart.vercel.app/ 
 
-![](./idea.png);
 
 #### React Icons
 
